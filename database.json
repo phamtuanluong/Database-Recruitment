@@ -168,7 +168,7 @@
         "Hải Dương",
         "Hà Nội"
       ],
-      "updateAt": "17-02-2025 21:28:43"
+      "updateAt": "18-02-2025 22:08:49"
     },
     {
       "idCompany": 2,
@@ -275,13 +275,13 @@
       ],
       "salary": "2600",
       "description": "Top 3 Reasons To Join Us\nCutting-edge projects\nCollaborative team\nFlexible working hours\nJob Description\nWe are seeking a Data Scientist to help analyze and interpret complex data to provide valuable insights for our business operations.\n\nYour Skills and Experience\n- Proficient in Python and machine learning libraries.\n- Strong understanding of data analysis and statistical techniques.\n- Experience with big data tools such as Hadoop or Spark is a plus.\n- Strong problem-solving skills and ability to communicate complex concepts.",
-      "status": false,
+      "status": true,
       "createAt": "02-05-2023 12:00:00",
       "id": "7",
       "city": [
         "Hải Phòng"
       ],
-      "updateAt": "04-05-2023 09:15:00"
+      "updateAt": "18-02-2025 22:08:42"
     },
     {
       "idCompany": 4,
@@ -317,9 +317,10 @@
         "Hồ Chí Minh"
       ],
       "description": "Chúng tôi đang tìm kiếm một Backend Java Developer có tư duy logic tốt, hiểu biết sâu về hệ thống backend và có kinh nghiệm làm việc với các công nghệ hiện đại để tham gia vào đội ngũ phát triển phần mềm của công ty.\n\nVị trí này sẽ chịu trách nhiệm thiết kế, phát triển và duy trì hệ thống backend cho các ứng dụng web, API, microservices và đảm bảo hệ thống có hiệu suất cao, bảo mật tốt và khả năng mở rộng linh hoạt.\n\nBạn sẽ làm việc cùng với đội ngũ frontend, DevOps, QA và các bộ phận khác để phát triển các sản phẩm chất lượng, phục vụ hàng triệu người dùng.",
-      "status": true,
+      "status": false,
       "idCompany": "1",
-      "createAt": "17-02-2025 22:09:19"
+      "createAt": "17-02-2025 22:09:19",
+      "updateAt": "26-03-2025 19:39:35"
     },
     {
       "id": "63b4",
@@ -462,6 +463,19 @@
       "linkProject": "",
       "createAt": "06-05-2023 14:20:33",
       "city": "Hà Nội"
+    },
+    {
+      "id": "a651",
+      "name": "Phạm Tuấn Lương",
+      "phone": "0999999999",
+      "email": "tuanluong",
+      "city": "1",
+      "description": "123",
+      "listProject": "123",
+      "idJob": "1",
+      "idCompany": 1,
+      "createAt": "02-03-2025 19:18:10",
+      "statusRead": false
     }
   ],
   "company": [
@@ -673,6 +687,14 @@
         "Full-stack Development",
         "Cloud-based Applications"
       ]
+    },
+    {
+      "id": "533b",
+      "email": "tuanluong",
+      "password": "tuanluong",
+      "phone": "091292992",
+      "nameCompany": "tuanluong",
+      "token": "WkYxrfZZ4bEWc9NFRQ9a"
     }
   ],
   "trending": [
